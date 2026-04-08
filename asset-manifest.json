@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apona_motors/static/css/main.e6c13ad2.css",
+    "main.js": "/apona_motors/static/js/main.b38dd792.js",
+    "static/js/453.8cc00342.chunk.js": "/apona_motors/static/js/453.8cc00342.chunk.js",
+    "index.html": "/apona_motors/index.html",
+    "main.e6c13ad2.css.map": "/apona_motors/static/css/main.e6c13ad2.css.map",
+    "main.b38dd792.js.map": "/apona_motors/static/js/main.b38dd792.js.map",
+    "453.8cc00342.chunk.js.map": "/apona_motors/static/js/453.8cc00342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b38dd792.js"
+  ]
+}
